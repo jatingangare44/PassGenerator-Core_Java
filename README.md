@@ -18,4 +18,4 @@ This is a simple Java-based password generator. It allows the user to input vari
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/miniprojects.git
+   git clone https://github.com/jatingangare44/PassGenerator-Core_Java.git
